@@ -108,17 +108,10 @@ section {
 
 .home_content p {
     font-size: 1.6rem;
+    line-height: 2.3rem;
+    text-transform: capitalize;
 }
 
-/* .social-media {
-    position: fixed;
-    left: 0;
-     background-color: #d87bee; */
-/* border-top-right-radius: 20px;
-    border-bottom-right-radius: 20px;
-    text-align: center;
-
-}  */
 
 .social-media a {
     display: inline-flex;
@@ -233,6 +226,8 @@ span {
 .about-content p {
     font-size: 1.6rem;
     margin: 2rem 0 3rem;
+    line-height: 2.3rem;
+    text-transform: capitalize;
 }
 
 .contact h2 {
@@ -382,7 +377,7 @@ span.cross:nth-of-type(3) {
 }
 
 .service_container .service_box {
-    flex: 1 1 30rem;
+    flex: 1 1 40rem;
     padding: 2rem 2rem 3rem;
     background: #d87bee;
     border-radius: 2rem;

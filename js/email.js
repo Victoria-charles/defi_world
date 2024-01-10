@@ -32,8 +32,7 @@ window.onscroll = () => {
         };
     });
 
-    // yftrftdjtjt
-
+   
     // let  header = document.querySelector('header');
     // header.classList.toggle('sticky',window.scrollY > 100);
 
@@ -60,7 +59,7 @@ ScrollReveal().reveal('.about-content', { origin: 'right' });
 
 // typed js
 const typed = new Typed ('.multi_text',{
-    strings:['Community Manager','Project Advisor','Ghost Writer','Content Creator','Defi Analyst'],
+    strings:['Community Manager','Ghost Writer','Content Writer','Ambassardoship','Defi Analyst','Collaboration Manager'],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
